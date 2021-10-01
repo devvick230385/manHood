@@ -1,0 +1,17 @@
+.cursor{
+    cursor: pointer;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+@media (min-width: 768px){
+    .buy{
+        border-right: 0.5px solid white;
+    }
+}
+
+.mt-inv{
+    margin-top: -50px;
+}
